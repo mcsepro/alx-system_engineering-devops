@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash chown vincent:staff*
-=======
 #!/bin/bash
 chown vincent:staff*
-
-
-
->>>>>>> 4a46ec95b244fc5c72faa1cb69fd487e28b60ee5
