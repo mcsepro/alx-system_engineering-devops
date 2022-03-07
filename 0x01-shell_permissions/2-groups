@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash\ngroups
+=======
+#!/bin/bash
+groups
+>>>>>>> 7c50297d55df5ff013d0317b3e236a1bb4ceb8aa
