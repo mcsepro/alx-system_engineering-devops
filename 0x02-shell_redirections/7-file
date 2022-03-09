@@ -1,16 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
-echo 'BEST School'>> "\\*\\\\'\"BEST School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
-=======
-<<<<<<< HEAD
-#!/bin/bash
-echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"echo BEST School>>"\\*\\\\"BEST School"\\\\\*$\\?\\*\\*\\*\\*\\*:)">>7-file
-cat 7-file
-echo echo "BEST School"
-echo BEST School>>"\\*\\\\"BEST School"\\\\\*$\\?\\*\\*\\*\\*\\*:)">>7-file
-cat 7-file
-echo echo "BEST School"
-=======
 echo '"BEST School"'>>"\\*\\\\'\"BEST School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
->>>>>>> 8d31decba7f254e342afdc3eec7546200f236ead
->>>>>>> 6ef377e537f0911664d1e047bb5037b5ed4605a5
+
