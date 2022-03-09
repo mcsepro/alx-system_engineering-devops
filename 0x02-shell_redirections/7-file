@@ -1,2 +1,7 @@
 #!/bin/bash
-echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"
+echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"echo BEST School>>"\\*\\\\"BEST School"\\\\\*$\\?\\*\\*\\*\\*\\*:)">>7-file
+cat 7-file
+echo echo "BEST School"
+echo BEST School>>"\\*\\\\"BEST School"\\\\\*$\\?\\*\\*\\*\\*\\*:)">>7-file
+cat 7-file
+echo echo "BEST School"
