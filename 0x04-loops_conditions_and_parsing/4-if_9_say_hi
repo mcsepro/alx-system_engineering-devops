@@ -1,14 +1,13 @@
 #!/usr/bin/env bash
-# Displays 'Best School'. Displays Hi on the 9th iteration
-
-index=0
-
-while [ $index -lt 10 ]
+#prints a string 10 times
+x=1
+while [ $x -ne 11 ]
 do
-  if [ $index -eq 9 ]
+  if [ $x -eq 9 ]
   then
     echo "Hi"
+  else
+    echo "Holberton School"
   fi
-  echo "Best School"
-  (( index++ ))
+  x=$(( x + 1 ))
 done
