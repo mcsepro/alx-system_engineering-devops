@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# informations about a file.
+# displays information about the holbertonschool file.
 
 FILE="holbertonschool"
 
