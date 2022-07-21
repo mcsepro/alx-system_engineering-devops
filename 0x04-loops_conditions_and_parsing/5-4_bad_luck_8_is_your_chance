@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#prints a string 10 times
+#prints Best School 10 times
 x=0
 while [ $x != 10 ]
 do
@@ -10,7 +10,7 @@ do
   then
     echo "good luck"
   else
-    echo "Holberton School"
+    echo "Best School"
   fi
   x=$(( x + 1 ))
 done
