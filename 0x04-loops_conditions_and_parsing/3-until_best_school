@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# displays Holberton School 10 times.
+#prints a string 10 times
 
-COUNTER=10
-until [ $COUNTER -lt 1 ]
+number=0
+until [ $number -eq 10 ]
 do
-    echo "Holberton School"
-    let COUNTER-=1
+	echo "Holberton School"
+	number=$(( number + 1 ))
 done
