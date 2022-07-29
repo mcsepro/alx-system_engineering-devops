@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#Displays all active IPv4 IPs on the machine it’s executed on
+# Displays all acive IPv4 addresses.
 
-ip -4 -o addr show | cut -d ' ' -f 7 | cut -d '/' -f 1 | sort
+ifconfig -a | grep "inet addr" | cut -d " " -f12 | cut -d ":" -f2
